@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ralei0
-- 👀 I’m interested in Machine Learning, Cyber Security, Web Development.
-- 🌱 I’m currently learning ML.
+
 - 📫 How to reach me rhemale.i0@gmail.com
 
 <!---
